@@ -1,2 +1,2 @@
 # cube-core
-Extendable, completely modular, CMS
+The core functionality of [cube](/ContentCube/cube).
